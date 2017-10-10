@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC "PetrovaEkaterina" "http://kodaktor.ru/j/dtd_904d7">
+<table>
+	<student name="Иванов">
+		<mark disziplina="Мультимедиа">3</mark>
+		<mark disziplina="Веб-дизайн">3</mark>
+		<mark disziplina="Графика">5</mark>
+	</student>
+	<student name="Петрова">
+		<mark disziplina="Мультимедиа">3</mark>
+		<mark disziplina="Веб-дизайн">4</mark>
+		<mark disziplina="Графика">5</mark>
+		<mark disziplina="Логика">5</mark>
+	</student>
+	<student name="Сидоренко">
+		<mark disziplina="Мультимедиа">3</mark>
+		<mark disziplina="Веб-дизайн">4</mark>
+		<mark disziplina="Графика">5</mark>
+		<mark disziplina="Логика">4</mark>
+	</student>
+</table>

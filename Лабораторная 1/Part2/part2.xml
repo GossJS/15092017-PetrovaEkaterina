@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE myportfolio PUBLIC "PetrovaEkaterina" "http://kodaktor.ru/j/dtd_a5f3a">
+<myportfolio>
+<mycompetence>
+<competency in="HTML" value="good"   />
+<competency in="CSS"  value="good" />
+<competency in="sharepoint" value="good" />
+<competency in="js"  value="just a little" />
+</mycompetence>
+</myportfolio>

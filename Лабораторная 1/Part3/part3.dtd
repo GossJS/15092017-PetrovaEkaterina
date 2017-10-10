@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<!ELEMENT statistica (visitation,topip)>
+	<!ELEMENT visitation (oneip,pc,mobile)>
+		<!ELEMENT oneip (ip)>
+		<!ELEMENT pc (platform+)>
+		<!ELEMENT mobile (platform+)>
+		<!ELEMENT platform (#PCDATA)>
+	<!ELEMENT topip (ip+)>
+<!ELEMENT ip (#PCDATA)>
+<!ATTLIST ip addr CDATA  #REQUIRED>
+<!ATTLIST ip frequency CDATA  #REQUIRED>
+<!ATTLIST platform title CDATA  #REQUIRED>
